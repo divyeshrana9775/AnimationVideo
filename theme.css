@@ -34,5 +34,5 @@
     text-transform: uppercase;
     color: #000;
     line-height: 100vh;
-    mix-blend-mode: overlay;
+    mix-blend-mode: screen;
 }
